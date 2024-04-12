@@ -62,3 +62,5 @@ Submit an empty initial commit when you start working.
 Send the link to jobs@ventureminer.com when you have finished working.
 
 The duration will be evaluated from the time elapsed between the first commit and the last.
+
+# Hasan Rıza Uzuner Start date: 04/12/2024
